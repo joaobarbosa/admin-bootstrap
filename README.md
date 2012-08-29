@@ -1,4 +1,4 @@
-admin-bootstrap
+Admin Bootstrap
 ===============
 
-A generic admin template made from Twitter Bootstrap.
+A simple and generic admin template made from Twitter Bootstrap.
